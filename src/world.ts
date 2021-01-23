@@ -11,11 +11,3 @@ export default class World {
     }
   }
 }
-
-
-
-
-
-
-
-
