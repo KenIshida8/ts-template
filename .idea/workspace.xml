@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2e2fdb-950d-440d-afba-c588e14d46f1" name="Default Changelist" comment="" />
+    <list default="true" id="1e2e2fdb-950d-440d-afba-c588e14d46f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/basic/any.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/notExist.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/premitive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/unknown.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/basic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/parametors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object/alias.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object/object.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bandle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bandle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nQJzi8Rrk3virlNU30bGTlelRS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
